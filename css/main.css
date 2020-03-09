@@ -1,0 +1,23 @@
+header {
+  margin: 30px auto;
+  max-width: 60%;
+  text-align: center;
+}
+
+h1 {
+  font-size: 300%;
+  font-weight: 400;
+}
+
+h2 {
+  font-size: 200%;
+  font-weight: 200;
+}
+
+ul#social {
+  padding: 0;
+}
+
+ul#social li {
+  display: inline;
+}
