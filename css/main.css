@@ -21,3 +21,7 @@ ul#social {
 ul#social li {
   display: inline;
 }
+
+#social {
+  margin-bottom: 0px;
+}
